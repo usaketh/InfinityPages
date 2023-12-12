@@ -1,51 +1,14 @@
-# "React Infinite Scroll & Infinite Query Tutorial"
+# Infinite Scroll & Infinite Query using React hooks and React-query
 
----
+Example 1 using only React hooks
+https://github.com/usaketh/InfinityPages/assets/64151405/16eac444-cf9e-4ed8-bb6f-b28fef130366
 
-### Author Links
+Example 2 using React-query
+https://github.com/usaketh/InfinityPages/assets/64151405/a4ead4d1-0b6e-4019-8b4f-91a20691a586
 
-👋 Hello, I'm Dave Gray.
+1. Used axios JS library to create an API to fetch data.
+2. Used useRef React hook to track the intersection observer.
+3. Used callback function to if the user has scrolled to the last post in a page.
+4. More posts will be loaded as soon as the user has reached the last post in a page.
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
-
-🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
-
-☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
-
-🚀 Follow Me:
-
-- [Twitter](https://twitter.com/yesdavidgray)
-- [LinkedIn](https://www.linkedin.com/in/davidagray/)
-- [Blog](https://yesdavidgray.com)
-- [Reddit](https://www.reddit.com/user/DaveOnEleven)
-
----
-
-### Description
-
-📺 [YouTube Video](https://youtu.be/JWlOcDus_rs) for this repository.
-
----
-
-### 💻 Source Code
-
-- 🔗 [React Infinite Scroll & Infinite Query Tutorial - Completed Source Code](https://github.com/gitdagray/react_infinite_scroll)
-
----
-
-### 🎓 Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
-
----
-
-### 📚 Tutorial References
-
-- 🔗 [React Query: useInfiniteQuery](https://react-query-v2.tanstack.com/reference/useInfiniteQuery)
-- 🔗 [JSON Placeholder: Posts](https://jsonplaceholder.typicode.com/posts)
-
-### ⚙ VS Code Extensions I Use:
-
-- 🔗 [ES7 React JS Snippets Extension](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-- 🔗 [vscode-icons VS Code Extension](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-- 🔗 [Github Themes VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+Try it out: https://usakethinfinitescroll.netlify.app/
