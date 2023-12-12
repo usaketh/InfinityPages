@@ -1,9 +1,11 @@
 # Infinite Scroll & Infinite Query using React hooks and React-query
 
-Example 1 using only React hooks
+# Example 1 using only React hooks
+
 https://github.com/usaketh/InfinityPages/assets/64151405/16eac444-cf9e-4ed8-bb6f-b28fef130366
 
-Example 2 using React-query
+# Example 2 using React-query
+
 https://github.com/usaketh/InfinityPages/assets/64151405/a4ead4d1-0b6e-4019-8b4f-91a20691a586
 
 1. Used axios JS library to create an API to fetch data.
