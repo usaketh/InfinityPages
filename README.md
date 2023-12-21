@@ -13,4 +13,5 @@ https://github.com/usaketh/InfinityPages/assets/64151405/a4ead4d1-0b6e-4019-8b4f
 3. Used callback function to if the user has scrolled to the last post in a page.
 4. More posts will be loaded as soon as the user has reached the last post in a page.
 
+
 Try it out: https://usakethinfinitescroll.netlify.app/
